@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="Justice_Coleman">Justice T Coleman</string>
+    <String name="Mobile_Development">Mobile Development Architecture</String>
+    <String name="Computer_Science">Computer Science and Engineering - Game Design</String>
+</resources>
